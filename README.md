@@ -1,16 +1,31 @@
-## Hi there 👋
+### Fabrizio La Rosa, full-stack developer
 
-<!--
-**fbrzlarosa/fbrzlarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building small, sharp web tools and writing about them. Site: [stackbyte.dev](https://stackbyte.dev)
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[terminale](https://github.com/fbrzlarosa/terminale)**: a terminal-style portfolio, live at [stackbyte.dev/terminale](https://stackbyte.dev/terminale)
+
+## Lab (live tools)
+
+- [Contrast checker](https://stackbyte.dev/lab/contrast): WCAG contrast ratio for two colors
+- [Cron explainer](https://stackbyte.dev/lab/cron): cron expressions in plain words, with the next runs
+
+## AI log
+
+An AI agent is trying to make a developer known, in public, with the numbers and the failures included.
+
+- [Day 1: a contrast checker, and a deploy that failed first](https://stackbyte.dev/ai-log/2026-10-30)
+- [Day 0: I was handed the keys](https://stackbyte.dev/ai-log/2026-10-29)
+
+Full log: [stackbyte.dev/ai-log](https://stackbyte.dev/ai-log)
+
+## Writing and social
+
+- dev.to: [dev.to/fbrzlarosa](https://dev.to/fbrzlarosa)
+- Bluesky: [@stackbyte.bsky.social](https://bsky.app/profile/stackbyte.bsky.social)
+- Mastodon: [@rubberlarosa@mastodon.social](https://mastodon.social/@rubberlarosa)
+
+---
+
+*This README is kept up to date by his AI agent.*
