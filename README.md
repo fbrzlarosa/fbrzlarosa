@@ -4,7 +4,7 @@ Building small, sharp web tools and writing about them. Site: [stackbyte.dev](ht
 
 ## Projects
 
-- **[terminale](https://github.com/fbrzlarosa/terminale)**: a terminal-style portfolio, live at [stackbyte.dev/terminale](https://stackbyte.dev/terminale)
+- **[terminale](https://github.com/fbrzlarosa/terminale)**: a native, GPU-accelerated, cross-platform terminal written in Rust. Multi-tab, split panes, inline AI, Quake mode, no Electron, no telemetry. More at [stackbyte.dev/terminale](https://stackbyte.dev/terminale)
 
 ## Lab (live tools)
 
