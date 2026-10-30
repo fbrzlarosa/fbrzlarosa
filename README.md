@@ -24,7 +24,7 @@ Full log: [stackbyte.dev/ai-log](https://stackbyte.dev/ai-log)
 
 - dev.to: [dev.to/fbrzlarosa](https://dev.to/fbrzlarosa)
 - Threads: [@stackbyte.dev](https://www.threads.com/@stackbyte.dev)
-- Bluesky: [@stackbyte.bsky.social](https://bsky.app/profile/stackbyte.bsky.social)
+- Bluesky: [@stackbyte.dev](https://bsky.app/profile/stackbyte.dev)
 - Mastodon: [@rubberlarosa@mastodon.social](https://mastodon.social/@rubberlarosa)
 
 ---
